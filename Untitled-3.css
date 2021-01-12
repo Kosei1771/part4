@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background:#C1C0C0;
+	min-width: 1024px;
+}
+
+header img{
+	width: 1440px;
+	margin-bottom: 50px;
+	
+}
+.body{
+	margin-bottom: 10px;
+}
+.body1{
+	margin-bottom: 40px;
+}
+.idList{
+	width: 100%;
+display: flex;
+letter-spacing: -0.4em;
+word-spacing: -1em;
+font-size: 0;
+	flex-wrap:wrap;
+}
+.r2nd{
+	width: 736px;
+	flex-wrap:wrap;
+}
+h2{
+	padding: 4px 0 4px 10px;
+border-left: #FF8D3A 7px solid;
+line-height: 1.6;
+margin: 10px 0 15px 0;
+font-size: 20px;
+}
+.kindof{
+	font-size: 16px;
+text-align: left;
+padding: 8px;
+margin: 30px auto 15px auto;
+color: #FFF;
+background: #FF8D3A;
+line-height: 1.3;
+}
+.r3nd{
+	background-color: #fff;
+border: 1px solid #bebebe;
+padding: 6px;
+display: table;
+text-decoration: none;
+}
+figure{
+	display: table-cell;
+width: 10px;
+text-align: left;
+}
+.a img{
+	width: 150px;
+height: auto;
+}
+.b img{
+	width: 150px;
+height: auto;
+}
+
+.profileText{
+	display: table-cell;
+width: 134px;
+height: auto;
+vertical-align: bottom;
+position: relative;
+}
+.Jname{
+	font-size: 20px;
+	padding: 8px 0 25px 25px;
+}
+.Ename{
+	font-size: 9px;
+	font-family: 'Roboto Condensed', sans-serif;
+	border-bottom: 1px solid #bebebe;
+	text-align: center;
+}
+.a{
+	list-style: none;
+	margin-left: 10px;
+}
+.b{
+	list-style: none;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
